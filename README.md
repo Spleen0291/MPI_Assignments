@@ -31,28 +31,50 @@ Experiment 1:
 
 Experiment 2:
 
+Matrix Multiplication using MPI-
+
 ![image](https://github.com/user-attachments/assets/b7d8b060-3486-40f5-b3c4-8b9cd137862b)
 
 Experiment 3:
+
+Parallel Sorting using MPI (Odd-Even Sort)-
 
 ![image](https://github.com/user-attachments/assets/f1213c67-f94f-4749-a26a-569c05befce1)
 
 Experiment 4:
 
+Heat Distribution Simulation using MPI-
+
 ![image](https://github.com/user-attachments/assets/1a2e2858-2273-4029-8fbd-b95091853c03)
 
 Experiment 5:
+
+Parallel Reduction using MPI-
 
 ![image](https://github.com/user-attachments/assets/edb9ab11-3940-4b6c-9b41-7f3a64ed0f99)
 
 Experiment 6:
 
+Parallel Dot Product using MPI-
+
 ![image](https://github.com/user-attachments/assets/30bfccec-f14f-46e6-8034-3fa13129f8a5)
 
 Experiment 7:
+
+Parallel Prefix Sum (Scan) using MPI-
 
 ![image](https://github.com/user-attachments/assets/0df4bd45-056f-4702-aa3c-0d015577132e)
 
 Experiment 8:
 
+Parallel Matrix Transposition using MPI-
+-
 ![image](https://github.com/user-attachments/assets/6ba6d0ce-6b71-4750-83f9-879f95998e60)
+
+## Assignment 3
+
+Experiment 1:
+
+DAXPY Loop Results-
+![image](https://github.com/user-attachments/assets/af5ebcdf-3500-4788-bb58-5034209ae3e1)
+
