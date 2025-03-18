@@ -37,16 +37,20 @@ Experiment 3:
 
 ![image](https://github.com/user-attachments/assets/f1213c67-f94f-4749-a26a-569c05befce1)
 
-
 Experiment 4:
 
 ![image](https://github.com/user-attachments/assets/1a2e2858-2273-4029-8fbd-b95091853c03)
 
-
 Experiment 5:
+
+![image](https://github.com/user-attachments/assets/edb9ab11-3940-4b6c-9b41-7f3a64ed0f99)
 
 Experiment 6:
 
+![image](https://github.com/user-attachments/assets/30bfccec-f14f-46e6-8034-3fa13129f8a5)
+
 Experiment 7:
+
+
 
 Experiment 8:
