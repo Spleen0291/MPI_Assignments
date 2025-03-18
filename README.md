@@ -51,6 +51,6 @@ Experiment 6:
 
 Experiment 7:
 
-
+![image](https://github.com/user-attachments/assets/0df4bd45-056f-4702-aa3c-0d015577132e)
 
 Experiment 8:
