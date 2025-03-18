@@ -15,3 +15,9 @@ Task 2:
 Task 3:
 
 ![image](https://github.com/user-attachments/assets/a6ec8431-0e90-45c5-943d-4f7ee73cdb5a)
+
+Task 4:
+
+![image](https://github.com/user-attachments/assets/f5e4d545-5af5-4880-8e28-9a28e5246e92)
+
+The output continues until processes finish all sending and receiving of all walkers.
