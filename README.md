@@ -54,3 +54,5 @@ Experiment 7:
 ![image](https://github.com/user-attachments/assets/0df4bd45-056f-4702-aa3c-0d015577132e)
 
 Experiment 8:
+
+![image](https://github.com/user-attachments/assets/6ba6d0ce-6b71-4750-83f9-879f95998e60)
