@@ -35,6 +35,9 @@ Experiment 2:
 
 Experiment 3:
 
+![image](https://github.com/user-attachments/assets/f1213c67-f94f-4749-a26a-569c05befce1)
+
+
 Experiment 4:
 
 Experiment 5:
