@@ -65,4 +65,6 @@ The output continues until processes finish all sending and receiving of all wal
 
 * Experiment 2 - Calculation of π using MPI Bcast and MPI Reduce:
 
+![image](https://github.com/user-attachments/assets/fedfd361-b8bf-4ec9-bdbe-1acfe640a655)
+
 * Experiment 3 - Finding all positive primes up to some maximum value:
