@@ -21,3 +21,10 @@ Task 4:
 ![image](https://github.com/user-attachments/assets/f5e4d545-5af5-4880-8e28-9a28e5246e92)
 
 The output continues until processes finish all sending and receiving of all walkers.
+
+
+## Assignment 2
+
+Experiment 1:
+
+![image](https://github.com/user-attachments/assets/3aa0efca-803e-470d-8f95-c8e2eaf052df)
