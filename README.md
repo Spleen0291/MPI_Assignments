@@ -28,3 +28,19 @@ The output continues until processes finish all sending and receiving of all wal
 Experiment 1:
 
 ![image](https://github.com/user-attachments/assets/3aa0efca-803e-470d-8f95-c8e2eaf052df)
+
+Experiment 2:
+
+![image](https://github.com/user-attachments/assets/b7d8b060-3486-40f5-b3c4-8b9cd137862b)
+
+Experiment 3:
+
+Experiment 4:
+
+Experiment 5:
+
+Experiment 6:
+
+Experiment 7:
+
+Experiment 8:
