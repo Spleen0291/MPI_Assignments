@@ -68,3 +68,5 @@ The output continues until processes finish all sending and receiving of all wal
 ![image](https://github.com/user-attachments/assets/fedfd361-b8bf-4ec9-bdbe-1acfe640a655)
 
 * Experiment 3 - Finding all positive primes up to some maximum value:
+
+![image](https://github.com/user-attachments/assets/16f87bc9-1230-487b-94ef-b20904abd7ed)
