@@ -40,6 +40,9 @@ Experiment 3:
 
 Experiment 4:
 
+![image](https://github.com/user-attachments/assets/1a2e2858-2273-4029-8fbd-b95091853c03)
+
+
 Experiment 5:
 
 Experiment 6:
